@@ -1,0 +1,17 @@
+{
+    "name": "d0llaz",
+    "blocks": {
+        "/blockchain/avalanche": true,
+        "/blockchain/avalanche/solidity": true,
+        "/framework/react": true,
+        "/category/access_control/core-administrator_role": true,
+        "/category/access_control/core-contract_access": true,
+        "/category/asset_value_tracking/core-token": true,
+        "/category/asset_value_tracking/core-token/name": "d0llaz",
+        "/category/asset_value_tracking/core-token/symbol": "dlz",
+        "/category/asset_value_tracking/core-token/decimals": "8",
+        "/category/asset_value_tracking/core-token/supply": "200000",
+        "/category/file_storage/core-ipfs": true,
+        "/category/file_storage/core-ipfs/mode": "single"
+    }
+}
